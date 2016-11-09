@@ -11,6 +11,7 @@ public class ResultLogin extends AppCompatActivity {
     private TextView txtUserName;
     private TextView txtEmail;
     private Account account;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
